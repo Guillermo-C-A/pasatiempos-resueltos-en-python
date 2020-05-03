@@ -6,7 +6,7 @@ Determinar el área común de dos lineas, rectángulos/cuadrados o cubos superpe
 
 ### Explicación
 
-Independientemente de la dimension en la que se trabaje, sabemos que la proyeccion de ambos vectores de ambas figuras estara comprendido en una recta, por lo que para calcular el area total de los rectangulos superpuestos (sin importar la dimension), calculadremos las diferencias de los vectores en cada dimension y multiplicaremos esas diferencias obteniendo asi el area del rectangulo superpuesto.
+Independientemente de la dimensión en la que se trabaje, sabemos que la proyección de ambos vectores de ambas figuras estará comprendido en una recta, por lo que para calcular el area total de los rectángulos superpuestos (sin importar la dimensión), calcularemos las diferencias de los vectores en cada dimensión y multiplicaremos esas diferencias obteniendo así el área del rectángulo superpuesto.
 
 ```python
 
@@ -131,6 +131,65 @@ Total area in common: 8.0
 ```
 
 En el caso de que las figuras no se superpongan, el area sera 0
+
+En 1D
+
+Gráfico:
+
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img_Readme/1D_1.png)
+
+Llamada:
+
+```python
+
+print(f"Total area in common: {Fig([1],2,[4],2).area()}")
+
+```
+
+Salida:
+
+```
+Total area in common: 0
+```
+
+En 2D
+
+Gráfico:
+
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img_Readme/2D_1.png)
+
+Llamada:
+
+```python
+
+print(f"Total area in common: {Fig([1,1],2,[4,2],2).area()}")
+
+```
+
+Salida:
+
+```
+Total area in common: 0
+```
+
+En 3D
+
+Gráfico:
+
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img_Readme/3D_1.png)
+
+Llamada:
+
+```python
+
+print(f"Total area in common: {Fig([2,1,1],2,[-2,1,1],2).area()}")
+
+```
+
+Salida:
+
+```
+Total area in common: 0
 
 ## Combinaciones de a x b = c
 
