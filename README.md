@@ -176,7 +176,7 @@ En 3D
 
 Gráfico:
 
-![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img_Readme/3D_1.png)
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img_Readme/3D_3.png)
 
 Llamada:
 
