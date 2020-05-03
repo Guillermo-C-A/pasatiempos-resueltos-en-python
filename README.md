@@ -188,7 +188,7 @@ print(f"Total area in common: {Fig([2,1,1],2,[-2,1,1],2).area()}")
 
 Salida:
 
-```
+
 Total area in common: 0
 
 ## Combinaciones de a x b = c
