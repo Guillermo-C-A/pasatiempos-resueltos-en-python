@@ -74,7 +74,7 @@ En 1D
 
 Gráfico:
 
-![](1D.png)
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img Readme/1D.png)
 
 Llamada:
 
@@ -94,7 +94,7 @@ En 2D
 
 Gráfico:
 
-![](2D.png)
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img Readme/2D.png)
 
 Llamada:
 
@@ -114,7 +114,7 @@ En 3D
 
 Gráfico:
 
-![](3D.png)
+![](https://github.com/Guillermo-C-A/pasatiempos-resueltos-en-python/blob/master/img Readme/3D.png)
 
 Llamada:
 
